@@ -1,4 +1,7 @@
 git init - crear repositorio
 git status - status de los archivos
-git add nombre.ter - ingresar un archivo en zona de station
-git add. - ingresar todos los archivos en zona de station
+git add nombre.ter - ingresar un archivo en zona de stage
+git add . - ingresar todos los archivos en zona de stage
+git commit -m "comentario" - empaquetado de archivos
+git diff - comparar cambios
+git reset HEAD nombre.ter - eliminar archivo del stage
