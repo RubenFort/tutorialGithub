@@ -1,0 +1,4 @@
+git init - crear repositorio
+git status - status de los archivos
+git add nombre.ter - ingresar un archivo en zona de station
+git add. - ingresar todos los archivos en zona de station
